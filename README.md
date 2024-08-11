@@ -21,7 +21,7 @@ I’m focused on mastering cutting-edge AI technologies, from natural language p
 
 - 🌱 I’m currently learning **Python with Advanced NLP and Fine Tuning**
 
-- 💬 Ask me about **Python,Prompt Engineering, Fine-Tuning**
+- 💬 Ask me about **Python, Prompt Engineering, Fine-Tuning**
 
 - 📫 How to reach me **shantnu4755@gmail.com**
 
