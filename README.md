@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <a href="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*jv7K_jnnnOeBf9oZ">
-        <img src="https://media.licdn.com/dms/image/D5612AQGBaJrXnxC9uA/article-cover_image-shrink_720_1280/0/1707373839480?e=1729123200&v=beta&t=h-yw-iLPSSnmtjsAe3m3i7CgIb2HYNlX5OfoW9DyLo8" alt="Masterhead" width="1000" height="500">
+        <img src="https://media.licdn.com/dms/image/D5612AQGBaJrXnxC9uA/article-cover_image-shrink_720_1280/0/1707373839480?e=1729123200&v=beta&t=h-yw-iLPSSnmtjsAe3m3i7CgIb2HYNlX5OfoW9DyLo8" alt="Masterhead" width="1000" height="400">
     </a>
 </div>
 
