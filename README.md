@@ -17,7 +17,7 @@ I’m focused on mastering cutting-edge AI technologies, from natural language p
 
 <p align="left"> <a href="https://twitter.com/kadam_5547" target="blank"><img src="https://img.shields.io/twitter/follow/kadam_5547?logo=twitter&style=for-the-badge" alt="kadam_5547" /></a> </p>
 
-- 🔭 I’m currently working on [Text to PPT Generator Using OpenAI](https://github.com/Shantnu4755/Text-PPT-Generator-Using-OpenAI)
+- 🔭 I’m currently working on [Text to PPT Generator Using GenAI](https://github.com/Shantnu4755/Text-PPT-Generator-Using-OpenAI)
 
 - 🌱 I’m currently learning **Python with Advanced NLP and Fine Tuning**
 
