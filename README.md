@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shantnu Kadam</h1>
-<h3 align="center">A passionate AI Enthusiast Engineer from India✨</h3>
+<h3 align="center">A passionate AI & Python Developer from India✨</h3>
 <h4><b>🔧 AI & Python Developer | Passionate About Machine Learning & NLP Innovation 🧠
 I’m focused on mastering cutting-edge AI technologies, from natural language processing to deep learning models. With a dedication to continuous learning, I am committed to advancing my expertise and applying these skills to develop intelligent and impactful solutions.</b></h4><br><br>
 
@@ -19,7 +19,7 @@ I’m focused on mastering cutting-edge AI technologies, from natural language p
 
 - 🔭 I’m currently working on [Text to PPT Generator Using OpenAI](https://github.com/Shantnu4755/Text-PPT-Generator-Using-OpenAI)
 
-- 🌱 I’m currently learning **Python Python with Advanced NLP and Fine Tuning**
+- 🌱 I’m currently learning **Python with Advanced NLP and Fine Tuning**
 
 - 💬 Ask me about **Python,Prompt Engineering, Fine-Tuning**
 
